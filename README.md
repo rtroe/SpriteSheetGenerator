@@ -1,5 +1,5 @@
 # SpriteSheetGenerator
-Another Sprite Sheet Generator. Searches a directory for all *.png files and packs them into a sprite sheet. It also generates a 'json' with locations and enum key list.
+Another Sprite Sheet Generator. Searches a directory for all .png files and packs them into a sprite sheet. It also generates a 'json' file with locations and sizes of the textures within the sprite sheet. This json's information can be retrieved by using the generated C# enum key list.
 
 # Usage
 Start the exe specifing the following arguments:
