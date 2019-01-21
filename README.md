@@ -11,3 +11,5 @@ Start the exe specifing the following arguments:
 # Known Bugs
 The packing algorythm can definitely be refined. Currently it sorts the icons by width. There can be some optimization by packing files deeper into lines that don't all have the same resolution.
 
+# Credits
+The icon is from 'https://www.fatcow.com/free-icons'. These are great.
