@@ -4,7 +4,7 @@
     <StartArguments>-w 256 -h 256 -dir "C:\Users\rtroe\Pictures\ribbonicons"</StartArguments>
   </PropertyGroup>
   <PropertyGroup>
-    <PublishUrlHistory>C:\Users\rtroe\Documents\GitHub\SpriteSheetGenerator\docs\publish\|publish\</PublishUrlHistory>
+    <PublishUrlHistory>publish\|C:\Users\rtroe\Documents\GitHub\SpriteSheetGenerator\docs\publish\</PublishUrlHistory>
     <InstallUrlHistory />
     <SupportUrlHistory />
     <UpdateUrlHistory />
