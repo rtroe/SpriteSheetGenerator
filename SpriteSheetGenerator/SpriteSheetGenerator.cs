@@ -103,7 +103,7 @@ namespace SpriteSheetGenerator
                             break;
                         case "-output":
                             Console.WriteLine("\tOutputing To Directory " + args[i + 1]);
-                            dir = args[i + 1];
+                            outputDir = args[i + 1];
                             break;
                     }
                 }
@@ -154,6 +154,8 @@ namespace SpriteSheetGenerator
                  .Where(s => ext.Contains(Path.GetExtension(s))).ToArray<string>();
 
             status = "Directory to Load From: " + dir + "\nPress 'Enter' to load all images";
+
+            execute = true;
         }
 
 
@@ -176,7 +178,7 @@ namespace SpriteSheetGenerator
             if (GamePad.GetState(PlayerIndex.One).Buttons.Back == ButtonState.Pressed || Keyboard.GetState().IsKeyDown(Keys.Escape))
                 Exit();
 
-            if (Keyboard.GetState().IsKeyDown(Keys.Enter))
+            //if (Keyboard.GetState().IsKeyDown(Keys.Enter))
             {
                 if (files.Length > 0)
                     execute = true;
