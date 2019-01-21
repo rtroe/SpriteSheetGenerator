@@ -25,3 +25,4 @@ C:\Users\rtroe\Documents\GitHub\SpriteSheetGenerator\SpriteSheetGenerator\obj\Re
 C:\Users\rtroe\Documents\GitHub\SpriteSheetGenerator\SpriteSheetGenerator\obj\Release\SpriteSheetGenerator.exe
 C:\Users\rtroe\Documents\GitHub\SpriteSheetGenerator\SpriteSheetGenerator\obj\Release\SpriteSheetGenerator.pdb
 C:\Users\rtroe\Documents\GitHub\SpriteSheetGenerator\SpriteSheetGenerator\obj\Release\SpriteSheetGenerator.csprojAssemblyReference.cache
+C:\Users\rtroe\Documents\GitHub\SpriteSheetGenerator\SpriteSheetGenerator\bin\DesktopGL\AnyCPU\Release\packages.config
